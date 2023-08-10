@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm ALI KHAN</h1>
 <h3 align="center">A Coder at your service</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alix47&label=Profile%20views&color=0e75b6&style=flat" alt="alix47" /> </p>
+- 🌱 I’m currently learning -> **React**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alix47" alt="alix47" /></a> </p>
+- 🤝 I’m looking for help with -> **full stack develpoment**
 
-- 🌱 I’m currently learning **React**
+- 🤖 Practicing -> **Data Structures and ALgorithms**
 
-- 🤝 I’m looking for help with **full stack develpoment**
+- 📫 How to reach me -> **khanali18143@gmail.com**
 
-- 📫 How to reach me **khanali18143@gmail.com**
-
-- ⚡ Fun fact **I am pursuing bachelors in Electronics and Communications;).**
+- ⚡ Fun fact -> **I am pursuing bachelors in Electronics and Communications;).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
