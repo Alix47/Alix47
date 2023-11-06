@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with -> **full stack develpoment**
 
-- 🤖 Practicing -> **Data Structures and ALgorithms**
+- 🤖 Practicing -> **Data Structures and Algorithms**
 
 - 📫 How to reach me -> **khanali18143@gmail.com**
 
