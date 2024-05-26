@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning -> React<br><br>🤝 I’m looking for help with -> full stack develpoment<br><br>🤖 Practicing -> Data Structures and ALgorithms<br><br>📫 How to reach me -> khanali18143@gmail.com<br><br>⚡ Fun fact -> I am pursuing bachelors in Electronics and Communications;).
+🌱 I’m currently learning -> Nextjs<br><br>🤝 I’m looking for help with -> full stack develpoment<br><br>🤖 Practicing -> Data Structures and ALgorithms<br><br>📫 How to reach me -> khanali18143@gmail.com<br><br>⚡ Fun fact -> I am pursuing bachelors in Electronics and Communications;).
 
 
 ## 🌐 Socials:
